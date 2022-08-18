@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angela!
-- 👀 I’m interested in Javascript and app development
-- 🌱 I’m currently learning React
+- 👀 I’m interested in app development
+- 🌱 I’m currently learning advanced React
 - 💞️ I’m looking to collaborate on apps or games, especially ones with Asian influence!
 - 📫 How to reach me ... send me a DM on Github or LinkedIn
 
