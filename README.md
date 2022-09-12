@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning advanced React
 - 💞️ I’m looking to collaborate on apps or games, especially ones with Asian influence!
-- 📫 You can reach me by sending me a message on LinkedIn
+- 📫 You can reach me by sending me a message on [LinkedIn](https://linkedin/in/angela-sun-flores)
 
 <!---
 valanex/valanex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
