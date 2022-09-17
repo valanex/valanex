@@ -1,5 +1,5 @@
 # Hi, I’m Angela! 😄
-### I'm a **Front End Developer** living in **San Diego, CA**.
+I'm a **Front End Developer** living in **San Diego, CA**.  
 You can send me a message via [LinkedIn](https://linkedin.com/in/angela-sun-flores) 📫 
 
 ## 💻 Skills 
@@ -14,7 +14,7 @@ You can send me a message via [LinkedIn](https://linkedin.com/in/angela-sun-flor
 - Hobby projects for smaller communities 
 
 ## 💼 Projects
-<table>
+<table border="0">
     <tr>
         <td><img src="https://valanex.github.io/assets/virtualmeowthumb.png" width=300 /></td>
         <td>
