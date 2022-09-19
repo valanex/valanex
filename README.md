@@ -60,7 +60,7 @@ You can send me a message via [LinkedIn](https://linkedin.com/in/angela-sun-flor
         </td>
     </tr>
     <tr>
-        <td width=30%><img src="assets/figmaUI.png" alt="Figma UI design"></td>
+        <td width=30%><img src="assets/figma.png" alt="Figma UI design"></td>
         <td>
         <p><strong>4. Further UI design</strong></p>
         <p>Now it was time to see how it looked in <a href="https://www.figma.com/">Figma</a>! This gave me dimensions to work with, and showed just how limited space would be.</p> 
