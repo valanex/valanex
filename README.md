@@ -33,7 +33,7 @@ You can send me a message via [LinkedIn](https://linkedin.com/in/angela-sun-flor
         </td>
     </tr>
 </table>
-<details><summary>Development process</summary>
+<details><summary><strong>DEVELOPMENT PROCESS</strong></summary>
 <table>
     <tr>
         <td width=30%><img src="assets/specs.png" alt="Wireframe sketch"></td>
